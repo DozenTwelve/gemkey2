@@ -33,9 +33,12 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://DozenTwelve.github.io/gemkey2/gallery/"  
-  - JOURNAL: "https://DozenTwelve.github.io/gemkey2/journal/"
-  - ABOUT: "https://DozenTwelve.github.io/gemkey2/about/"
+  - GALLERY: 
+    url: "https://DozenTwelve.github.io/gemkey2/gallery/"  
+  - JOURNAL: 
+    url: "https://DozenTwelve.github.io/gemkey2/journal/"
+  - ABOUT: 
+    url: "https://DozenTwelve.github.io/gemkey2/about/"
 
 # All translation keys
 translations:
